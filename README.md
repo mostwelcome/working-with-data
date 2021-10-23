@@ -1,2 +1,2 @@
 # working-with-data
-This repository is all about pandas,numpy,matplotlib
+This repository is all about working with pandas,numpy,matplotlib
